@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name":"dva",
+        "image": "assets/dva.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":"mei",
+        "image": "assets/mei.jpg"
+    },
+    {
+        "id": 3,
+        "name":"brigitte",
+        "image": "assets/brigitte.jpg"
+    },
+    {
+        "id": 4,
+        "name":"genji",
+        "image": "assets/genji.jpg"
+    },
+    {
+        "id": 5,
+        "name":"hanzo",
+        "image": "assets/Hanzo.png"
+    },
+    {
+        "id": 6,
+        "name":"mercy",
+        "image": "assets/Mercy.png"
+    },
+    {
+        "id": 7,
+        "name":"orisa",
+        "image": "assets/orisa.jpg"
+    },
+    {
+        "id": 8,
+        "name":"reaper",
+        "image": "assets/Reaper.jpg"
+    },
+    {
+        "id": 9,
+        "name":"reinhart",
+        "image": "assets/reinhardt.jpg"
+    },  
+    {
+        "id": 10,
+        "name":"roadhog2",
+        "image": "assets/roadhog2.jpg"
+    },
+    {
+        "id": 11,
+        "name":"widow",
+        "image": "assets/widowmaker.jpg"
+    },
+    {
+        "id": 12,
+        "name":"winston",
+        "image": "assets/winston.jpg"
+    }
+
+]
